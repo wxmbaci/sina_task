@@ -1,0 +1,3 @@
+{"err":"错误：Get \"\": unsupported protocol scheme \"\"","level":"error","msg":"","start_time":"2021-10-04T21:55:51.08171656+08:00","time":"2021-10-04 21:55:51"}
+{"err":"抽奖已结束:https://lottery.media.weibo.com/lottery/h5/history/list?mid=4532892481619520","level":"error","msg":"","start_time":"2021-10-04T21:55:57.660681377+08:00","time":"2021-10-04 21:55:57"}
+time="2021-10-04T21:55:57+08:00" level=error err="抽奖已结束:https://lottery.media.weibo.com/lottery/h5/history/list?mid=4532892481619520" start_time="2021-10-04 21:55:57.660681377 +0800 CST m=+10.558213162"
